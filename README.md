@@ -76,7 +76,7 @@ To understand overall variability of revenue, I compute summary statistics and p
 
 These patterns point to distinct revenue tiers—small, mid‑range, and large deals—while the long right tail highlights high‑value outliers that deserve closer review.
 
-![Figure 2](2_hist_revenue.png)
+![Figure 2](figures/2_hist_revenue.png)
 
 ### Revenue by Sales Method
 
@@ -106,9 +106,9 @@ Statistical validation: I also conduct a one-way ANOVA and subsequent Tukey HSD 
 
 These results confirm the descriptive findings. Note, however, that this analysis does not factor in varying time investments per sales method—see the metric definition section for an efficiency‑adjusted metric.
 
-![Figure 3](3_hist_rev_method.png)
+![Figure 3](figures/3_hist_rev_method.png)
 
-![Figure 4](4_bar_rev_method.png)
+![Figure 4](figures/4_bar_rev_method.png)
 
 ### Revenue Trends Over Time
 
@@ -123,7 +123,7 @@ Summary of trends:
 
 The Email+Call method not only starts and ends at the highest revenue levels, but also delivers the largest absolute gain. This demonstrates the value of combaining email with a brief (10‑minute) follow-up call—an approach that appears to compound its effect as the campaign progresses.
 
-![Figure 5](5_line_plot.png)
+![Figure 5](figures/5_line_plot.png)
 
 
 ### Customer Profile Differences
