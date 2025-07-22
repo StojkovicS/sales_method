@@ -64,7 +64,7 @@ In this section, I combine visualizations and summary statistics to answer the k
 ###  Deals per Sales Method
 Figure 1 shows the count of obsearvations, i.e., deals concluded per sales method. The highest number of sales was realised through Email (7466), followed by Call (4962). The method Email+Call was used in 2572 cases.
 
-![Figure 1](1_count_method.png)
+![Figure 1](figures/1_count_method.png)
 
 ### Revenue Distribution
 To understand overall variability of revenue, I compute summary statistics and plot a histogram (Figure 2). Key points:
